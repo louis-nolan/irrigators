@@ -1,0 +1,8 @@
+#surefire
+#Tue Oct 09 12:27:21 CAT 2018
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=D\:\\work\\Projects\\Java\\irrigators
+current.jrebel.agent.path=C\:\\Users\\nolanl\\AppData\\Roaming\\NetBeans\\8.2\\griffin\\jrebel.jar
+file.encoding=UTF-8
+localRepository=C\:\\Users\\nolanl\\.m2\\repository
+basedir=D\:\\work\\Projects\\Java\\irrigators
